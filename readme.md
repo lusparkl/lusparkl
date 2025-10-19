@@ -23,5 +23,4 @@ I'm a high school student passionate about **data science** and **machine learni
 
 ### 📈 GitHub Stats
 
-![lusparkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusparkl&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lusparkl&layout=compact&theme=tokyonight)
