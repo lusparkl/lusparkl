@@ -2,7 +2,7 @@
 
 I'm a high school student passionate about **data science** and **machine learning**.
 
-- 🔭 I’m currently working on **[polymarket-data-pipeline](https://github.com/lusparkl/polymarket-data-pipeline)**
+- 🔭 I’m currently working on **[electricity_suply_checker]()**
 - 🌱 I’m learning **data science tools like pandas, NumPy, and scikit-learn**
 - 👯 I’m looking to collaborate on **interesting ML or data-driven projects**
 - ⚡ Fun fact: **I wake up at 5 AM every day just to learn how to code**
