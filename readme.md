@@ -22,5 +22,8 @@ There is lot's of private repos that don't really look like smth I can show you.
 * I can drink 2-3 liters of tea while coding, my fav is green
 * Spider Man is my favorite movie
 * **Hobbies:** coding, reading, volleyball & gym
+---
+
+**📊Stats**
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lusparkl&rank_icon=github&custom_title=My%20github%20stats%20(kinda%20weak)&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=lusparkl&rank_icon=github&custom_title=My%20github%20stats%20(kinda%20weak)&show_icons=true&include_all_commits=true&theme=monokai)
