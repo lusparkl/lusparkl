@@ -23,4 +23,4 @@ There is lot's of private repos that don't really look like smth I can show you.
 * Spider Man is my favorite movie
 * **Hobbies:** coding, reading, volleyball & gym
 
-[![lusparkl's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusparkl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusparkl)](https://github.com/anuraghazra/github-readme-stats)
