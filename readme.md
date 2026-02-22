@@ -14,7 +14,7 @@ I’m **lusparkl**, a Python dev based in Ukraine. I like building something tha
 - [air-fryer-recipe-hub](https://github.com/lusparkl/air-fryer-recipe-hub) - Web scraper that scrapes only recipies for air fryer, cleans them up and saves to the db.
 - [ballances-checker-bot](https://github.com/lusparkl/ballances-checker-bot) - Telegram bot that helps you to control all your crypto assets. Made when was pasionate about tg bots stuff, simple tho.
 
-There is lot's of private repos that don't really look like smth I can show you. But I'll work on something new soon!
+- There is lot's of private repos that don't really look like smth I can show you. But I'll work on something new soon!
 ---
 
 **Fun Facts:**
