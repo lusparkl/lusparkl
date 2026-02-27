@@ -10,8 +10,9 @@ I’m **lusparkl**, a Python dev based in Ukraine. I like building something tha
 ---
 
 **Some stuff I built:**
-- [Jarvis](https://github.com/lusparkl/local_ai_assistant_jarvis) -  My pride. Fully local AI assistant that can talk with you and help with lots of tasks. Still working on it btw
+- [Jarvis](https://github.com/lusparkl/local_ai_assistant_jarvis) -  My pride. Fully local AI assistant that can talk with you and help with lots of tasks.
 - [air-fryer-recipe-hub](https://github.com/lusparkl/air-fryer-recipe-hub) - Web scraper that scrapes only recipies for air fryer, cleans them up and saves to the db.
+- [my-corner](https://github.com/lusparkl/my-corner) - My personal website. Made for fun.
 - [ballances-checker-bot](https://github.com/lusparkl/ballances-checker-bot) - Telegram bot that helps you to control all your crypto assets. Made when was pasionate about tg bots stuff, simple tho.
 
 - There is lot's of private repos that don't really look like smth I can show you. But I'll work on something new soon!
