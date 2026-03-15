@@ -12,6 +12,7 @@ I’m **lusparkl**, a Python dev based in Ukraine. I like building something tha
 **Some stuff I built:**
 - [Jarvis](https://github.com/lusparkl/local_ai_assistant_jarvis) -  My pride. Fully local AI assistant that can talk with you and help with lots of tasks.
 - [tik-tok-streak-saver](https://github.com/lusparkl/tik-tok-streak-saver) - CLI app that will save your tik tok streaks and let you to forget about it for some time. In development rn.
+- [notee](https://github.com/lusparkl/notee) - CLI app to make your notes in the console. Btw there is also ai module in there, search notes with vector db and so on.
 - [air-fryer-recipe-hub](https://github.com/lusparkl/air-fryer-recipe-hub) - Web scraper that scrapes only recipies for air fryer, cleans them up and saves to the db.
 - [my-corner](https://github.com/lusparkl/my-corner) - My personal website. Made for fun.
 - [ballances-checker-bot](https://github.com/lusparkl/ballances-checker-bot) - Telegram bot that helps you to control all your crypto assets. Made when was pasionate about tg bots stuff, simple tho.
